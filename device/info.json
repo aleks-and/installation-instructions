@@ -1,0 +1,25 @@
+{
+    "languages": [
+        {
+            "code": "en",
+            "countries": [
+                {
+                    "code": "us",
+                    "html": "main.en.html"
+                }
+            ],
+            "defaultCountryCode": "us"
+        },
+        {
+            "code": "uk",
+            "countries": [
+                {
+                    "code": "UA",
+                    "html": "main.ua-UK.html"
+                }
+            ],
+            "defaultCountryCode": "UA"
+        }
+    ],
+    "defaultLanguageCode": "en"
+}
